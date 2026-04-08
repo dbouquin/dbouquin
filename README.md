@@ -36,9 +36,3 @@
 ########*+.         .  .-+*##%%%%#*=:.      ....:#%             @  
 #######*==                                   .  :+#@@@@@@@@@@@@@@  
 ```
-
-<br/>
-
-I'm a **Senior Developer Relations Engineer at [Anaconda](https://www.anaconda.com)**, working at the intersection of technical content creation, open source community strategy, and developer education. Before that, I spent a decade in academia, most recently as Head Librarian at the Harvard-Smithsonian Center for Astrophysics, where I led work on scientific software preservation, software citation, and Sloan Foundation-funded projects focused on metadata research and open-source satellite technology. I have also worked as a data scientist in nonprofit and government settings.
-
-<br/>
