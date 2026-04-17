@@ -18,7 +18,6 @@
 ```
 
 ### Upcoming Conferences
--  Software Citation in Astronomy Workshop - San Diego, CA
 -  PyTexas - Austin, TX
 -  PyCon US - Long Beach, CA
 -  PyData London - London, UK
