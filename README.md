@@ -8,7 +8,7 @@
  Location ..... North Adams, MA                   Bluesky ...... @dbouquin.bsky.social
                                                   ORCID ........ 0000-0003-2626-3688
 ─ Currently Working On ─────────────────────
- Anaconda ..... community strategy · dev ed       ─ Personal   ────────────────────────────────
+ Anaconda ..... community strategy · dev ed       ─ Personal ──────────────────────────────────
                 content · conference speaking     Hobbies ...... Podcasting
  Podcast ...... Lore in the Machine                              Goldwork embroidery
                 narrative nonfiction podcast                     Open water swimming
