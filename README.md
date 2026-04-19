@@ -18,8 +18,8 @@
 ```
 
 ### Upcoming Conferences
--  PyTexas - Austin, TX
 -  PyCon US - Long Beach, CA
 -  PyData London - London, UK
--  EuroPython + EuroSciPy - Krakow, Poland
+-  SciPy - Minneapolis, MN
+-  EuroPython / EuroSciPy - Krakow, Poland
 -  PyTorch Conference - San Jose, CA
