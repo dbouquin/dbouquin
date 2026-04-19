@@ -5,15 +5,16 @@
  Role ......... Senior DevRel @ Anaconda          Web .......... dainabouquin.com
  Focus ........ Open Source · Education · AI      Podcast ...... loreinthemachine.com
                 Technical storytelling            LinkedIn ..... /in/dbouquin
- Location ..... Berkshires, MA                    Bluesky ...... @dbouquin.bsky.social
+ Location ..... North Adams, MA                   Bluesky ...... @dbouquin.bsky.social
                                                   ORCID ........ 0000-0003-2626-3688
 ─ Currently Working On ─────────────────────
- Anaconda ..... community strategy & dev ed       ─ Fun Facts ────────────────────────────────
- Podcast ...... Lore in the Machine               Hobbies ...... Podcasting
-                narrative nonfiction podcast                     Goldwork embroidery
- Book ......... The Universe in 13 Graphs                        Open water swimming
-                w/ Chris Lintott & Jeff Grube     Companions ... Two blind cats
-                                                                 Fish 
+ Anaconda ..... community strategy · dev ed       ─ Personal   ────────────────────────────────
+                content · conference speaking     Hobbies ...... Podcasting
+ Podcast ...... Lore in the Machine                              Goldwork embroidery
+                narrative nonfiction podcast                     Open water swimming
+ Book ......... The Universe in 13 Graphs         Companions ... Two blind cats · Fish              
+                w/ Chris Lintott & Jeff Grube
+ 
 ─ Stack ─────────────────────────────────────
  Python · MCP · Astro · R · Neo4j · D3
 ```
