@@ -1,4 +1,4 @@
-[![Daina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dbouquin&custom_title=Recent%20GitHub%20Commits&hide_border=true&theme=github-compact)](https://github.com/dbouquin)
+[![Daina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dbouquin&custom_title=Recent%20Commits&hide_border=true&theme=github-compact)](https://github.com/dbouquin)
 
 ```  python
 ─ Daina Bouquin─────────────────────────────      ─ Links ────────────────────────────────────
