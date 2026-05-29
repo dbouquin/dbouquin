@@ -20,7 +20,6 @@
 ```
 
 ### Upcoming Conferences
--  PyCon US - Long Beach, CA
 -  PyData London - London, UK
 -  SciPy - Minneapolis, MN
 -  EuroPython / EuroSciPy - Krakow, Poland
