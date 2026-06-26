@@ -20,7 +20,6 @@
 ```
 
 ### Upcoming Conferences
--  PyData London - London, UK
+-  EuroPython - Krakow, Poland
 -  SciPy - Minneapolis, MN
--  EuroPython / EuroSciPy - Krakow, Poland
--  PyTorch Conference - San Jose, CA
+-  DevRelCon NY - Brooklyn, NY
