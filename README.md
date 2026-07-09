@@ -2,7 +2,7 @@
 
 ```  python
 ─ Daina Bouquin─────────────────────────────      ─ Links ────────────────────────────────────
- Role ......... Senior DevRel @ Anaconda          Web .......... dainabouquin.com
+ Role ......... Senior DevRel @ Anaconda          Website ...... dainabouquin.com
  Focus ........ Open Source · Education · AI      Podcast ...... foundinthemachine.com
                 · Technical storytelling          LinkedIn ..... /in/dbouquin
  Location ..... North Adams, MA                   Bluesky ...... @dbouquin.bsky.social
