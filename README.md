@@ -18,8 +18,3 @@
 ─ Stack ─────────────────────────────────────
  Python · MCP · Astro · R · Neo4j · D3
 ```
-
-### Upcoming Conferences
--  EuroPython - Krakow, Poland
--  SciPy - Minneapolis, MN
--  DevRelCon NY - Brooklyn, NY
